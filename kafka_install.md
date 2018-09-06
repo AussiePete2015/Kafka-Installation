@@ -62,7 +62,7 @@ Automation of download of truststore and keystore TODO
 <br>sudo chmod 0400 /etc/ssl/kafka00.com.keystore.jks
 <br>sudo chown kafka:kafka /etc/ssl/kafka00.com.keystore.jks
 
-<h3>Enable authentication in server.properties<h3>
+<h3>Enable authentication in server.properties</h3>
 <br>ssl.endpoint.identification.algorithm=HTTPS
 
 <h3>Enable and turn on Kafka</h3>
